@@ -172,6 +172,7 @@ Divido in array differenti le tipologie di auto
 
 manca virgola graffa riga 60
 errore arrow function riga 68
+il modulo deve essere && perchè non deve essere un alternativa
 obbligo l'utilizzo del carattere minuscolo dentro le function
 */
 
